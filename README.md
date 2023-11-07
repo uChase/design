@@ -18,7 +18,7 @@ There will be an export feature to export your rating and looks stats to other s
 
 ## Engagement and Addictiveness Strategies
 
-To get repeat engagment, we can artificially say servers are down so some features are not working, and to check back to see more analysis! this would be a lie but whomst cares! Also, we can encourage usage during different times of the day, with and without makeup, to truly rate them ratchet mfs.
+To get repeat engagment, we can make it so you can post your scores, so you gon wanna see your friends scores! And we could have a leaderboard of hottest and a leaderboard of uggos! Also, we can encourage usage during different times of the day, with and without makeup, to truly rate them ratchet mfs.
 
 ## Scalability and Expansion
 
